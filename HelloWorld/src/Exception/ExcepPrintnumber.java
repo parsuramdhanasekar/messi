@@ -1,7 +1,8 @@
 package Exception;
 
 public class ExcepPrintnumber {
-	public void printNumber() {
+	public void 
+() {
 		System.out.println("Hi");
 		try {
 			System.out.println("Before Execution");

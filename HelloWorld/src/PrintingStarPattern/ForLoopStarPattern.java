@@ -1,4 +1,5 @@
 
+
 package PrintingStarPattern;
 
 public class ForLoopStarPattern {
